@@ -1,0 +1,10 @@
+D:\Приложения\VSC\triangle1\bin\Debug\triangle1.exe.config
+D:\Приложения\VSC\triangle1\bin\Debug\triangle1.exe
+D:\Приложения\VSC\triangle1\bin\Debug\triangle1.pdb
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.csprojAssemblyReference.cache
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.Form1.resources
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.Properties.Resources.resources
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.csproj.GenerateResource.cache
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.csproj.CoreCompileInputs.cache
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.exe
+D:\Приложения\VSC\triangle1\obj\Debug\triangle1.pdb
