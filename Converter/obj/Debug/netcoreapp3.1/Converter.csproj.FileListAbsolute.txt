@@ -1,0 +1,13 @@
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\Приложения\VSC\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache

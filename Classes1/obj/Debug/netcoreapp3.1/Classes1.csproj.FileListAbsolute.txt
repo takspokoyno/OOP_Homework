@@ -1,0 +1,13 @@
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.exe
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.deps.json
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.runtimeconfig.json
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.runtimeconfig.dev.json
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.dll
+D:\Приложения\VSC\Classes1\bin\Debug\netcoreapp3.1\Classes1.pdb
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.csprojAssemblyReference.cache
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.AssemblyInfoInputs.cache
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.AssemblyInfo.cs
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.csproj.CoreCompileInputs.cache
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.dll
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.pdb
+D:\Приложения\VSC\Classes1\obj\Debug\netcoreapp3.1\Classes1.genruntimeconfig.cache
