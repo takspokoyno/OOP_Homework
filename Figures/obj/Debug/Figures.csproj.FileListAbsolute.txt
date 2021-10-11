@@ -1,0 +1,10 @@
+D:\Приложения\VSC\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\Приложения\VSC\Figures\obj\Debug\Square_and_Perimeter.Form1.resources
+D:\Приложения\VSC\Figures\obj\Debug\Figures.Properties.Resources.resources
+D:\Приложения\VSC\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+D:\Приложения\VSC\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Приложения\VSC\Figures\bin\Debug\Figures.exe.config
+D:\Приложения\VSC\Figures\bin\Debug\Figures.exe
+D:\Приложения\VSC\Figures\bin\Debug\Figures.pdb
+D:\Приложения\VSC\Figures\obj\Debug\Figures.exe
+D:\Приложения\VSC\Figures\obj\Debug\Figures.pdb
