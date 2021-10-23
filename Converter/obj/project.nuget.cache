@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIbelXJgJAHFxQbcrlsb6nEVippBMCRvnMDSF0xKbPKsGiiM7L2V+oikok9ipZ63F8CC7MJLRFNzAb1j+Cbbtg==",
+  "dgSpecHash": "f1hvDiqtUGoe5f6Wt63UiuLQBefPSfaxT2A/+i7RqVABAx62uVst4BEd9rR9ZeywMR2Voft7SzLhKfsCLhLrVg==",
   "success": true,
-  "projectFilePath": "D:\\Приложения\\VSC\\Converter\\Converter.csproj",
+  "projectFilePath": "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\Converter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

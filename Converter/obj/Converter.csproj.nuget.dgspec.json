@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Приложения\\VSC\\Converter\\Converter.csproj": {}
+    "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\Converter.csproj": {}
   },
   "projects": {
-    "D:\\Приложения\\VSC\\Converter\\Converter.csproj": {
+    "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Приложения\\VSC\\Converter\\Converter.csproj",
+        "projectUniqueName": "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\Converter.csproj",
         "projectName": "Converter",
-        "projectPath": "D:\\Приложения\\VSC\\Converter\\Converter.csproj",
+        "projectPath": "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\Converter.csproj",
         "packagesPath": "C:\\Users\\38067\\.nuget\\packages\\",
-        "outputPath": "D:\\Приложения\\VSC\\Converter\\obj\\",
+        "outputPath": "D:\\Приложения\\GitHub\\OOP_Homework\\Converter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\38067\\AppData\\Roaming\\NuGet\\NuGet.Config",

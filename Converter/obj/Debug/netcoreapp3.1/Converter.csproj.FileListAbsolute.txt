@@ -11,3 +11,16 @@ D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.C
 D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.dll
 D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
 D:\Приложения\VSC\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\Приложения\GitHub\OOP_Homework\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+D:\Приложения\GitHub\OOP_Homework\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
